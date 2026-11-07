@@ -67,4 +67,4 @@ Control the snake, collect apples, increase your score, and challenge yourself t
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/HarshuPandhare/SNAKE_GAME
