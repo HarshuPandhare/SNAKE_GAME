@@ -22,7 +22,7 @@ Control the snake, collect apples, increase your score, and challenge yourself t
 
 <div align="center">
 
-<img src="Screenshots/snake-gameplay.png" width="85%" alt="Snake Game Gameplay"/>
+<img src="Screenshots/gameplay.png" width="85%" alt="Snake Game Gameplay"/>
 
 </div>
 
@@ -30,7 +30,7 @@ Control the snake, collect apples, increase your score, and challenge yourself t
 
 <div align="center">
 
-<img src="Screenshots/unity-editor-overview.png" width="100%" alt="Unity Editor Project"/>
+<img src="Screenshots/interface.png" width="100%" alt="Unity Editor Project"/>
 
 </div>
 
